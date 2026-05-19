@@ -1,0 +1,9 @@
+[project]
+name = "ai-interviewer"
+version = "0.1.0"
+dependencies = [
+    "google-generativeai",
+    "pydantic",
+    "python-dotenv",
+    "streamlit",
+]

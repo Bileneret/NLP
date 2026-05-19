@@ -1,0 +1,24 @@
+# Віртуальні середовища (uv / venv)
+**/.venv/
+**/venv/
+**/env/
+
+# Секретики
+**/.env
+**/.env.local
+**/run
+
+# Кеш
+**/__pycache__/
+**/*.pyc
+**/.pytest_cache/
+**/.coverage
+**/.streamlit/
+
+# Локальні налаштування IDE
+**/.vscode/
+**/.idea/
+
+# Системне сміття
+.DS_Store
+Thumbs.db
